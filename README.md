@@ -163,12 +163,12 @@ P(t,V)=d+at+bv+c\sin(0.5t)
 
 먼저 이 Repository를 클론합니다:
 ```sh
-git clone
+git clone https://github.com/Resistance-R/Calculus-Python-Economics-Experiment.git
 ```
 
 클론된 Repository로 이동합니다:
 ```sh
-cd ~/
+cd ~/Calculus-Python-Economics-Experiment
 ```
 
 `main.py` 스크립트를 실행합니다:
